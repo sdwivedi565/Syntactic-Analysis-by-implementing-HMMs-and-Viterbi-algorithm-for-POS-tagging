@@ -1,6 +1,8 @@
 # Syntactic-Analysis-by-implementing-HMMs-and-Viterbi-algorithm-for-POS-tagging
 Write the vanilla Viterbi algorithm for assigning POS tags (i.e. without dealing with unknown words) 
 
+# HMMs and Viterbi algorithm for POS tagging
+
 You have been given a 'test' file below containing some sample sentences with unknown words. Look at the sentences and try to observe rules which may be useful to tag unknown words. Your final model will be evaluated on a similar test file.
 
 # Data
